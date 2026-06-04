@@ -218,3 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 test.csv
+*.csv
