@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+<<<<<<< HEAD
+=======
+Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+test.csv
+*.csv
+>>>>>>> b41a288861e21f6a3cb45a893c49ed35aae3d50f
